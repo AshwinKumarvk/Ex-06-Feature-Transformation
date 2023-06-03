@@ -110,9 +110,9 @@ plt.show()
 
 ![image](https://user-images.githubusercontent.com/95408674/197522818-236ac430-5f5b-42bb-b747-4cf3dd2c51fe.png)
 
+## Result
 
-
-
+Thus the Feature Transformation for the given datasets had been executed successfully 
 
 
 
